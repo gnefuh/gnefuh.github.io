@@ -1,19 +1,28 @@
 # Hexo Configuration
 ## Docs: https://hexo.io/docs/configuration.html
 ## Source: https://github.com/hexojs/hexo/
+  
+# ---------------
+# mode: light | dark | auto | time
+mode: auto
 
 # Site
-title: Hexo
+title: 爱折腾的小胡
 subtitle: ''
-description: ''
+description: '别人贪婪时恐惧，别人恐惧时贪婪'
 keywords:
+  - 游戏
+  - linux
+  - python
+  - 电影
+  - 电视剧
 author: 胡峰
 language: zh-CN
-timezone: China/WuHan
+timezone: Asia/Shanghai
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://example.com
+url: http://example.com/
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:

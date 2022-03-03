@@ -6,3 +6,21 @@ avatar:
     enable: true
     emoji: 🌑
     message: Looking for dawn.
+
+banner:
+  enable: true
+  title: 爱折腾的小胡
+  src: /js/ui/banner.js
+  border: true
+  cloud:
+    enable: true
+    color: "white"
+  go_down:
+    enable: true
+    icon: icon-arrow-down-s-line
+
+wordcloud:
+  enable: true
+
+girls:
+  enable: true
